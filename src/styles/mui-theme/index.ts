@@ -1,4 +1,4 @@
-import { createTheme } from '@mui/material';
+import { createTheme, responsiveFontSizes } from '@mui/material';
 import { TypographyStyleOptions } from '@mui/material/styles/createTypography';
 
 const systemFont = [
@@ -34,4 +34,4 @@ const theme = createTheme({
   },
 });
 
-export default theme;
+export default responsiveFontSizes(theme);

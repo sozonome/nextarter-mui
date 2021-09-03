@@ -10,6 +10,7 @@ import '@fontsource/plus-jakarta-sans/latin.css';
 import '@fontsource/ibm-plex-sans';
 
 import defaultSEOConfig from '../../next-seo.config';
+import Layout from 'components/layout';
 import theme from 'styles/mui-theme';
 import createEmotionCache from 'styles/mui-theme/createEmotionCache';
 
@@ -35,7 +36,9 @@ const MyApp = ({
     <DefaultSeo {...defaultSEOConfig} />
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Component {...pageProps} />
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
     </ThemeProvider>
   </CacheProvider>
 );

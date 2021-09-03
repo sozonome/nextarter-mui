@@ -1,11 +1,11 @@
-import { Typography } from '@mui/material';
+import { Box, Typography } from '@mui/material';
 import { NextPage } from 'next';
 
 const Home: NextPage = () => (
-  <div>
+  <Box>
     <Typography variant="h1">Hello</Typography>
     Hello
-  </div>
+  </Box>
 );
 
 export default Home;
