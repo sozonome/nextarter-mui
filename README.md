@@ -15,7 +15,7 @@ Start developing right away!
 
 - ✔️ toolings for linting, formatting, and conventions configured
 
-  `eslint`, `prettier`, `husky`, `lint-staged`, and `standard-version`
+  `eslint` (with `airbnb` configs), `prettier`, `husky`, `lint-staged`, and `standard-version`
 
 - 📱 PWA-ready
 
