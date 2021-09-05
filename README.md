@@ -1,6 +1,6 @@
 # nextmui-starter
 
-[![nextmui-starter](https://socialify.git.ci/sozonome/nextmui-starter/image?description=1&descriptionEditable=Template%20to%20quickly%20initialize%20nextjs%20app%20with%20Chakra%20UI%20%26%20Typescript%20setup&logo=https%3A%2F%2Fsznm.dev%2Fapp_icons%2Fnextmui-starter.svg&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)](https://github.com/sozonome/nextmui-starter)
+[![nextmui-starter](https://socialify.git.ci/sozonome/nextmui-starter/image?description=1&language=1&logo=https%3A%2F%2Fmaterial-ui.com%2Fstatic%2Flogo_raw.svg&owner=1&stargazers=1&theme=Dark)](https://github.com/sozonome/nextmui-starter)
 
 > ### ⚠️ This template is not production ready
 >
