@@ -1,34 +1,7 @@
 {
   "extends": [
-    "eslint:recommended",
-    "airbnb",
-    "airbnb-typescript",
-    "next",
-    "next/core-web-vitals",
-    "prettier"
-  ],
-  "parserOptions": {
-    "project": "./tsconfig.json"
-  },
-  "plugins": ["prettier"],
-  "rules": {
-    "prettier/prettier": "error",
-    "import/order": [
-      "warn",
-      {
-        "groups": [
-          ["builtin", "external"],
-          ["internal", "parent"],
-          ["sibling", "index"],
-          "type",
-          "object"
-        ],
-        "newlines-between": "always",
-        "alphabetize": {
-          "order": "asc",
-          "caseInsensitive": true
-        }
-      }
-    ]
-  }
+    "eslint-config-sznm/react",
+    "plugin:react/jsx-runtime",
+    "plugin:@next/next/recommended"
+  ]
 }
