@@ -11,7 +11,7 @@ const CTASection = () => (
       >
         <img src="https://vercel.com/button" alt="deploy to vercel" />
       </Link>
-      <Link href="https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextchakra-starter">
+      <Link href="https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextmui-starter">
         <img
           src="https://www.netlify.com/img/deploy/button.svg"
           alt="deploy to netlify"

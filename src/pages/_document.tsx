@@ -17,7 +17,7 @@ import * as React from 'react';
 
 import createEmotionCache from 'styles/mui-theme/createEmotionCache';
 
-const APP_NAME = 'nextchakra-starter';
+const APP_NAME = 'nextmui-starter';
 const APP_DESCRIPTION =
   'Next.js app template with Chakra-UI, TypeScript, and PWA configured';
 
@@ -54,6 +54,7 @@ class MyDocument extends Document {
 
     ctx.renderPage = () =>
       originalRenderPage({
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         enhanceApp: (App: any) => (props) =>
           <App emotionCache={cache} {...props} />,
       });

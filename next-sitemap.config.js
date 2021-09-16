@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 const NextSitemapConfig = {
-  siteUrl: "https://nextchakra-starter.sznm.dev",
+  siteUrl: "https://nextmui-starter.sznm.dev",
   generateRobotsTxt: true,
 };
 
