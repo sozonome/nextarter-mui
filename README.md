@@ -2,10 +2,6 @@
 
 [![nextmui-starter](https://socialify.git.ci/sozonome/nextmui-starter/image?description=1&language=1&logo=https%3A%2F%2Fmaterial-ui.com%2Fstatic%2Flogo_raw.svg&owner=1&stargazers=1&theme=Dark)](https://github.com/sozonome/nextmui-starter)
 
-> ### ⚠️ This template is not production ready
->
-> as Material v5 is not release in stable version yet. Use at your own risk.
-
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/nextmui-starter) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextmui-starter)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), added with [**Material UI v5**](https://next.material-ui.com) and [**TypeScript**](https://www.typescriptlang.org) setup.
@@ -15,7 +11,7 @@ Start developing right away!
 
 - ✔️ toolings for linting, formatting, and conventions configured
 
-  `eslint` (with `airbnb` configs), `prettier`, `husky`, `lint-staged`, and `standard-version`
+  `eslint`, `prettier`, `husky`, `lint-staged`, and `standard-version`
 
 - 📱 PWA-ready
 
