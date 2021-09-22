@@ -23,8 +23,7 @@ const CTASection = () => (
       <Typography
         style={{ background: 'lightgray', padding: 2, borderRadius: 4 }}
       >
-        yarn create next-app --example
-        https://github.com/sozonome/nextmui-starter
+        npx degit sozonome/nextmui-starter
       </Typography>
 
       <Button
