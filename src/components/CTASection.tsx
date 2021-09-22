@@ -23,7 +23,7 @@ const CTASection = () => (
       <Typography
         style={{ background: 'lightgray', padding: 2, borderRadius: 4 }}
       >
-        npx degit sozonome/nextmui-starter
+        npx degit sozonome/nextmui-starter {'<YOUR_APP_NAME>'}
       </Typography>
 
       <Button
