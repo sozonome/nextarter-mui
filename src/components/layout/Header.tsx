@@ -6,7 +6,7 @@ const Header = () => (
     <Toolbar>
       <Grid container maxWidth="800px" marginX="auto">
         <Link href="/" passHref>
-          <Typography variant="h4">nextmui-starter</Typography>
+          <Typography variant="h4">nextarter-mui</Typography>
         </Link>
       </Grid>
     </Toolbar>

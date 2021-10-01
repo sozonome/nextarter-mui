@@ -17,7 +17,7 @@ import * as React from 'react';
 
 import createEmotionCache from 'styles/mui-theme/createEmotionCache';
 
-const APP_NAME = 'nextmui-starter';
+const APP_NAME = 'nextarter-mui';
 
 class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {

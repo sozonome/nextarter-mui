@@ -7,11 +7,11 @@ const CTASection = () => (
     <Stack justifyContent="center" direction="row" spacing={2}>
       <Link
         target="_blank"
-        href="https://vercel.com/import/git?s=https://github.com/sozonome/nextmui-starter"
+        href="https://vercel.com/import/git?s=https://github.com/sozonome/nextarter-mui"
       >
         <img src="https://vercel.com/button" alt="deploy to vercel" />
       </Link>
-      <Link href="https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextmui-starter">
+      <Link href="https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-mui">
         <img
           src="https://www.netlify.com/img/deploy/button.svg"
           alt="deploy to netlify"
@@ -23,14 +23,14 @@ const CTASection = () => (
       <Typography
         style={{ background: 'lightgray', padding: 2, borderRadius: 4 }}
       >
-        npx degit sozonome/nextmui-starter {'<YOUR_APP_NAME>'}
+        npx degit sozonome/nextarter-mui {'<YOUR_APP_NAME>'}
       </Typography>
 
       <Button
         component={Link}
         variant="outlined"
         target="_blank"
-        href="https://github.com/sozonome/nextmui-starter/generate"
+        href="https://github.com/sozonome/nextarter-mui/generate"
       >
         Use This Template
       </Button>
@@ -39,7 +39,7 @@ const CTASection = () => (
     <Stack direction="row" justifyContent="center">
       <Button
         component={Link}
-        href="https://github.com/sozonome/nextmui-starter"
+        href="https://github.com/sozonome/nextarter-mui"
         target="_blank"
         startIcon={<GithubIcon />}
       >

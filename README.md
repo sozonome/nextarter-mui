@@ -1,10 +1,10 @@
-# nextmui-starter
+# nextarter-mui
 
-[![nextmui-starter](https://socialify.git.ci/sozonome/nextmui-starter/image?description=1&language=1&logo=https%3A%2F%2Fmaterial-ui.com%2Fstatic%2Flogo_raw.svg&owner=1&stargazers=1&theme=Dark)](https://github.com/sozonome/nextmui-starter)
+[![nextarter-mui](https://socialify.git.ci/sozonome/nextarter-mui/image?language=1&logo=https%3A%2F%2Fmui.com%2Fstatic%2Flogo_raw.svg&owner=1&stargazers=1&theme=Dark)](https://github.com/sozonome/nextarter-mui)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/nextmui-starter) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextmui-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/nextarter-mui) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-mui)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), added with [**Material UI v5**](https://next.material-ui.com) and [**TypeScript**](https://www.typescriptlang.org) setup.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), added with [**Material UI v5**](https://mui.com) and [**TypeScript**](https://www.typescriptlang.org) setup.
 Start developing right away!
 
 ## 🔋⚡ Super Battery Packed template
@@ -26,7 +26,7 @@ Start developing right away!
 You can either click `Use this template` button on this repository and clone the repo or directly from your terminal:
 
 ```bash
-npx degit sozonome/nextmui-starter <APP_NAME>
+npx degit sozonome/nextarter-mui <APP_NAME>
 ```
 
 Then, run the development server:
@@ -46,5 +46,5 @@ You can start editing the page by modifying `src/pages/index.tsx`. The page auto
 - This template is inspired by Next.js with TypeScript example from Material UI v5 official examples and Material UI v5 docs site.
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Material UI v5](https://next.material-ui.com)
+- [Material UI v5](https://mui.com)
 - [TypeScript](https://www.typescriptlang.org)
