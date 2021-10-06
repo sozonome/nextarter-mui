@@ -4,6 +4,10 @@
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/nextarter-mui) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-mui)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sozonome_nextarter-mui&metric=alert_status)](https://sonarcloud.io/dashboard?id=sozonome_nextarter-mui) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sozonome_nextarter-mui&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=sozonome_nextarter-mui) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sozonome_nextarter-mui&metric=bugs)](https://sonarcloud.io/dashboard?id=sozonome_nextarter-mui) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=sozonome_nextarter-mui&metric=code_smells)](https://sonarcloud.io/dashboard?id=sozonome_nextarter-mui) [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=sozonome_nextarter-mui&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=sozonome_nextarter-mui)
+
+[![Depfu](https://badges.depfu.com/badges/0dd6a7332ec881713f0415bc3c9b79cd/overview.svg)](https://depfu.com/github/sozonome/nextarter-mui?project_id=32143) [![Depfu](https://badges.depfu.com/badges/0dd6a7332ec881713f0415bc3c9b79cd/count.svg)](https://depfu.com/github/sozonome/nextarter-mui?project_id=32143)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), added with [**Material UI v5**](https://mui.com) and [**TypeScript**](https://www.typescriptlang.org) setup.
 Start developing right away!
 
