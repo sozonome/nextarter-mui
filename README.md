@@ -1,6 +1,6 @@
 # nextarter-mui
 
-[![nextarter-mui](https://socialify.git.ci/sozonome/nextarter-mui/image?language=1&logo=https%3A%2F%2Fmui.com%2Fstatic%2Flogo_raw.svg&owner=1&stargazers=1&theme=Dark)](https://github.com/sozonome/nextarter-mui)
+[![nextarter-mui](https://socialify.git.ci/sozonome/nextarter-mui/image?language=1&logo=https://mui.com/static/logo.svg&owner=1&stargazers=1&theme=Dark)](https://github.com/sozonome/nextarter-mui)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/nextarter-mui) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-mui)
 
