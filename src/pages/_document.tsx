@@ -1,11 +1,5 @@
 /* eslint-disable react/jsx-props-no-spreading */
-/* eslint-disable react/display-name */
-/**
- * @todo: remove this comment below when ready
- * ref: https://github.com/vercel/next.js/issues/13712#issuecomment-910409023
- * */
 import createEmotionServer from '@emotion/server/create-instance';
-// eslint-disable-next-line @next/next/no-document-import-in-page
 import Document, {
   Html,
   Head,
