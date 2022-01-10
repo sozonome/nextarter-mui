@@ -24,7 +24,7 @@
     "@fontsource/ibm-plex-sans": "^4.5.1",
     "@fontsource/plus-jakarta-sans": "^4.5.0",
     "@mui/icons-material": "^5.2.5",
-    "@mui/material": "^5.2.6",
+    "@mui/material": "^5.2.7",
     "next": "^12.0.7",
     "next-pwa": "^5.4.4",
     "next-seo": "^4.28.1",
@@ -40,7 +40,7 @@
     "eslint-config-sznm": "^0.1.14",
     "husky": "^7.0.4",
     "lint-staged": "^11.2.6",
-    "next-sitemap": "^1.6.203",
+    "next-sitemap": "^1.6.261",
     "prettier": "^2.5.1",
     "standard-version": "^9.3.2",
     "typescript": "^4.5.4"
