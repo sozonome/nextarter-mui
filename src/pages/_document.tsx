@@ -1,12 +1,7 @@
 /* eslint-disable react/jsx-props-no-spreading */
 import createEmotionServer from '@emotion/server/create-instance';
-import Document, {
-  Html,
-  Head,
-  Main,
-  NextScript,
-  DocumentContext,
-} from 'next/document';
+import type { DocumentContext } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
 import * as React from 'react';
 
 import createEmotionCache from 'styles/mui-theme/createEmotionCache';
@@ -77,8 +72,9 @@ MyDocument.getInitialProps = async (ctx: DocumentContext) => {
   ctx.renderPage = () =>
     originalRenderPage({
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      enhanceApp: (App: any) => (props) =>
-        <App emotionCache={cache} {...props} />,
+      enhanceApp: (App: any) => (props) => (
+        <App emotionCache={cache} {...props} />
+      ),
     });
 
   const initialProps = await Document.getInitialProps(ctx);

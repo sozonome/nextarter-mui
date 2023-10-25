@@ -48,3 +48,6 @@ sitemap.xml
 
 # turbo
 .turbo
+
+# vscode
+.vscode/settings.json

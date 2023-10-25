@@ -1,5 +1,5 @@
 import { Stack } from '@mui/material';
-import { NextPage } from 'next';
+import type { NextPage } from 'next';
 
 import CTASection from 'components/CTASection';
 import SomeImage from 'components/SomeImage';

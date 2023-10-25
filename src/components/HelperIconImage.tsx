@@ -1,4 +1,5 @@
-import { Box, Tooltip, TooltipProps } from '@mui/material';
+import type { TooltipProps } from '@mui/material';
+import { Box, Tooltip } from '@mui/material';
 import Image from 'next/image';
 
 type HelperIconImageProps = {

@@ -1,5 +1,5 @@
-import { ThemeOptions } from '@mui/material';
-import { TypographyStyleOptions } from '@mui/material/styles/createTypography';
+import type { ThemeOptions } from '@mui/material';
+import type { TypographyStyleOptions } from '@mui/material/styles/createTypography';
 
 const systemFont = [
   '-apple-system',

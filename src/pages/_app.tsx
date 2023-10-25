@@ -1,9 +1,9 @@
 /* eslint-disable react/jsx-props-no-spreading */
-import { EmotionCache } from '@emotion/cache';
+import type { EmotionCache } from '@emotion/cache';
 import { CacheProvider } from '@emotion/react';
 import CssBaseline from '@mui/material/CssBaseline';
 import { ThemeProvider } from '@mui/material/styles';
-import { AppProps } from 'next/app';
+import type { AppProps } from 'next/app';
 import Head from 'next/head';
 import { DefaultSeo } from 'next-seo';
 import '@fontsource/plus-jakarta-sans/latin.css';
