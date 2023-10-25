@@ -42,3 +42,9 @@ yarn-error.log*
 # sitemap
 robots.txt
 sitemap.xml
+
+# typescript
+*.tsbuildinfo
+
+# turbo
+.turbo
