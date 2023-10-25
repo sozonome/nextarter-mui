@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import { GitHub as GithubIcon } from '@mui/icons-material';
-import { Button, Link, Stack, Typography } from '@mui/material';
+import { Button, Link, Stack } from '@mui/material';
 
 const CTASection = () => (
   <Stack textAlign="center" spacing={2}>
@@ -19,13 +19,7 @@ const CTASection = () => (
       </Link>
     </Stack>
 
-    <Stack spacing={1}>
-      <Typography
-        style={{ background: 'lightgray', padding: 2, borderRadius: 4 }}
-      >
-        npx degit sozonome/nextarter-mui {'<YOUR_APP_NAME>'}
-      </Typography>
-
+    <Stack spacing={2} direction="row" justifyContent="center">
       <Button
         component={Link}
         variant="outlined"
@@ -34,9 +28,6 @@ const CTASection = () => (
       >
         Use This Template
       </Button>
-    </Stack>
-
-    <Stack direction="row" justifyContent="center">
       <Button
         component={Link}
         href="https://github.com/sozonome/nextarter-mui"

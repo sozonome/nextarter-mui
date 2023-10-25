@@ -2,7 +2,6 @@ import { Box } from '@mui/material';
 import { ReactNode } from 'react';
 
 import Footer from './Footer';
-import Header from './Header';
 
 type LayoutProps = {
   children: ReactNode;
@@ -10,7 +9,6 @@ type LayoutProps = {
 
 const Layout = ({ children }: LayoutProps) => (
   <Box marginX="auto">
-    <Header />
     <Box
       paddingX={[2, 0]}
       paddingY={[2]}

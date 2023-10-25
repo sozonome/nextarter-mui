@@ -9,7 +9,7 @@ type HelperIconImageProps = {
 const HelperIconImage = ({ label, src }: HelperIconImageProps) => (
   <Tooltip arrow aria-label={label as string} title={label}>
     <Box marginX={2}>
-      <Image src={src} width={33} height={33} alt={label as string} />
+      <Image src={src} width={24} height={24} alt={label as string} />
     </Box>
   </Tooltip>
 );

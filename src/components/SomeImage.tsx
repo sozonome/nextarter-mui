@@ -10,13 +10,14 @@ const SomeImage = () => (
         <Image
           src="/assets/Rocket-rafiki.svg"
           alt="launch"
-          width={400}
-          height={400}
+          width={240}
+          height={240}
         />
       </Box>
       <Link
         href="https://stories.freepik.com/web"
         sx={{ textDecoration: 'none' }}
+        fontSize={12}
       >
         Illustration by Freepik Stories
       </Link>
