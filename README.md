@@ -1,6 +1,7 @@
 # nextarter-mui
 
 > ## ⚠️ No longer actively maintained.
+>
 > will update deps only
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/nextarter-mui) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-mui)
@@ -53,3 +54,5 @@ You can start editing the page by modifying `src/pages/index.tsx`. The page auto
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 - [Material UI v5](https://mui.com)
 - [TypeScript](https://www.typescriptlang.org)
+- [MUI Theme Generator](https://zenoo.github.io/mui-theme-creator)
+- [Palette Generator](https://m2.material.io/inline-tools/color/)
